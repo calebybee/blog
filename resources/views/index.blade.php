@@ -15,7 +15,7 @@
 </div>
 <div class="sm:grid grid-cols-2 gap-20 w-4/5 mx-auto py-15 border-b border-gray-200">
     <div>
-        <img src="https://pixabay.com/get/gae1b722f74eef6acb77119c22f5648caeb09e3824001d946a31fc53cac4df4720307514399d3368d120fe3bafefc4ae5be97da688ec3c015fddc649c1b5c55e2a4aeece1ea9f29a9f8d571682b474c6e_1920.jpg" width="700px" alt="">
+        <img src="https://cdn.pixabay.com/photo/2016/03/26/13/09/workspace-1280538_1280.jpg" width="700px" alt="">
     </div>
 
     <div class="m-auto sm:m-auto text-left w-4/5 block">
@@ -79,7 +79,7 @@
         </div>
     </div>
     <div>
-        <img src="https://pixabay.com/get/gae1b722f74eef6acb77119c22f5648caeb09e3824001d946a31fc53cac4df4720307514399d3368d120fe3bafefc4ae5be97da688ec3c015fddc649c1b5c55e2a4aeece1ea9f29a9f8d571682b474c6e_1920.jpg" width="700px" alt="">
+        <img src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg" width="700px" alt="">
     </div>
 </div>
 @endsection
